@@ -23,3 +23,15 @@ final javascript
 
 ES-6 ,ES-5 , 
 
+let => primitive
+var =>
+const => () ,{},[]
+
+# Everything in js is object
+
+1. variables
+2. data types
+3. Operators
+4. Conditionals
+5. Loop controls
+6. Array
